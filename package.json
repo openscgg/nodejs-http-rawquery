@@ -9,7 +9,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "http": "^0.0.1-security",
+    "http-hash": "^2.0.1",
     "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2"
   }
 }
